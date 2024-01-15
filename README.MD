@@ -1,5 +1,5 @@
 
-# Indicadores e estatísticas de violência pra o Estado de São Paulo
+# Indicadores e estatísticas de violência para o Estado de São Paulo
 ##### Arquitetura de dados utilizada: Data Lake (processamento batch - event driven)
 ##### Tecnologias: AWS, SPARK, SQL, PYTHON, POWER BI
 
