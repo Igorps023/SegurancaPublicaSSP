@@ -1,6 +1,6 @@
 
 # Indicadores e estatísticas de violência para o Estado de São Paulo
-##### Arquitetura de dados utilizada: Data Lake (processamento batch - event driven)
+##### Arquitetura de dados utilizada: Data Lake (event driven) 
 ##### Tecnologias: AWS, SPARK, SQL, PYTHON, POWER BI
 
 **Objetivo do projeto:**
