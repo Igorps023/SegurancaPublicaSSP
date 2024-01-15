@@ -17,7 +17,7 @@ Coleta de arquivos Excel (XLSX)
 - https://www.ssp.sp.gov.br/estatistica/dados-mensais
 
 ##### Diagrama da Arquitetura de Dados (Data Lake):
-![Event Driven Pipeline](https://github.com/Igorps023/SegurancaPublicaSSP/blob/main/Arquitetura%20Lake%20Event%20Driven.drawio.png?raw=true "Event Driven Pipeline")
+![Event Driven Pipeline](https://github.com/Igorps023/SegurancaPublicaSSP/blob/main/Arquitetura%20Lake%20Event%20Driven_2.drawio.png?raw=true "Event Driven Pipeline")
 
 
 Os scripts e notebooks utilizados estão disponíveis nas respectivas pastas.
